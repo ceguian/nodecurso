@@ -1,0 +1,1 @@
+Append File permite añadir contenido especifico al archivo. Si el archivo no exite, lo crea.
